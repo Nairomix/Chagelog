@@ -1,4 +1,4 @@
-{"version_code":452257,"content":"
+{"version_code":xxxxxxxx,"content":"
 <p>WhatsApp Mix V7.70 By Nairo Mix</p>
  
 <li>Add photho center</li>
