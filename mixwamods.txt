@@ -1,2 +1,15 @@
-# Chagelog
-NMMods
+{"version_code":452257,"content":"
+<p>WhatsApp Mix V7.70 By Nairo Mix</p>
+ 
+<li>Add photho center</li>
+<li>Add Home Style</li>
+<li>Add Hide Conversation</li>
+<li>Add On The right converstion</li>
+<li>Add 116 Icons Notification</li>
+<li>Add New bubbles and tick style</li>
+<li>Add Multi Chats ((Conversation))</li>
+<li>Add Status limited and Multimedia 2GB</li>
+<li>Other Fixed</li>
+ 
+","url":"https://mundoappmix.blogspot.com/?m=1"
+}
