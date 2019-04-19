@@ -1,9 +1,9 @@
-{"version_code":452559,"content":"
-<p>WhatsApp Mix V7.85 By Nairo Mix</p>
+{"version_code":xxxxxx,"content":"
+<p>WhatsApp Mix V8.00 By Nairo Mix</p>
  
 <li>AGG ESTILO DE ADJUNTAR</li>
 <li>AGG ESTILO DE INFO DE CONTACTO</li>
 <li>ARREGLADOS ICONOS DE AJUSTES</li>
  
-","url":"https://www.nairomix.com/2019/01/MIXWAMods-by-Nairo-Mix.html"
+","url":"https://www.nairomix.com/"
 }
