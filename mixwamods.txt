@@ -1,4 +1,4 @@
-{"version_code":xxxxxx,"content":"
+{"version_code":452646,"content":"
 <p>MIXWhatsApp V8.05 Mod by NM-Mods</p>
  
 <li>Anti-Ban fix</li>
