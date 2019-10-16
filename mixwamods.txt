@@ -1,22 +1,25 @@
-{"version_code":452646,"content":"
-<p>MIXWhatsApp V8.05 Mod by NM-Mods</p>
- 
-<li>Anti-Ban fix</li>
-<li>Fixed Hidden Chat Count Showing on Main Screen</li>
-<li>Fixed Payments Color in Attach Menu</li>
-<li>Fixed Crash when open chat in some</li> devices</li>
-<li>Efectos 3D chat/estado/llamadas</li>
-<li>Fondo Perzonalizado</li>
-<li>Lista de efectos</li>
-<li>Burbuja de chat</li>
-<li>Barra de accion</li>
-<li>Estilo de Adjuntar</li>
-<li>Panales de inicio home</li>
-<li>Estilo de entrada</li>
-<li>Nombre y estado</li>
-<li>Privacidad de estados</li>
-<li>Entrada ios por defecto</li>
-<li>Sitio web de temas</li>
- 
-","url":"https://www.nairomix.com/2019/04/WAMix3d-by-NairoMix.html?m=1"
+{"version_code":452812,"content":"
+<p>تحديث رقم V8.20</p>
+
+<li>تحسين ونقل خيار قطع الانترنت عن الواتساب الى واجهة المحادثات الرئيسية</li>
+<li>إضافة خيار لإخفاء ايقونة قطع الإنترنت عن الواتساب (إعدادات بلس-شاشة المحادثات-خيار رقم 3.4.9)</li>
+<li>اصلاح عدم ظهور ايقونة معلومات الرسالة في الشريط العلوي داخل المحادثات</li>
+<li>اصلاح عدم ظهور ايقونة الرد في الشريط العلوي داخل المحادثات</li>
+<li>اصلاح عدم ظهور ايقونة الارفاق في الشريط العلوي داخل المحادثات</li>
+<li>اصلاح واجهة المستخدم القديمة(الخيار 3.4.1)</li>
+<li>اصلاح انهيار التطبيق في بعض الاجهزة</li>
+<li>اصلاحات اخرى</li>
+
+<p>Update V8.20</p>
+
+<li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+<li>Added Option to Hide DND Mode Icon (mod 3.4.9)</li>
+<li>Fixed message details icon not showing on Chat ActionBar</li>
+<li>Fixed reply icon not showing on Chat ActionBar</li>
+<li>Fixed attachment icon not showing on Chat ActionBar</li>
+<li>Fixed Old UI ( option 3.4.1)</li>
+<li>Fixed app doesnt start on some devices</li>
+<li>Other fixes</li>
+
+","url":"https://www.nairomix.com/"
 }
