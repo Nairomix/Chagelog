@@ -1,5 +1,5 @@
-{"version_code":452812,"content":"
-<p>تحديث رقم V8.20</p>
+{"version_code":xxxx000,"content":"
+<p>تحديث رقم V8.30</p>
 
 <li>تحسين ونقل خيار قطع الانترنت عن الواتساب الى واجهة المحادثات الرئيسية</li>
 <li>إضافة خيار لإخفاء ايقونة قطع الإنترنت عن الواتساب (إعدادات بلس-شاشة المحادثات-خيار رقم 3.4.9)</li>
@@ -10,7 +10,7 @@
 <li>اصلاح انهيار التطبيق في بعض الاجهزة</li>
 <li>اصلاحات اخرى</li>
 
-<p>Update V8.20</p>
+<p>Update V8.30</p>
 
 <li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
 <li>Added Option to Hide DND Mode Icon (mod 3.4.9)</li>
