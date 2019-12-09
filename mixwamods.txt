@@ -1,25 +1,16 @@
 {"version_code":xxxxx,"content":"
-<p>تحديث رقم V8.30</p>
-
-<li>تحسين ونقل خيار قطع الانترنت عن الواتساب الى واجهة المحادثات الرئيسية</li>
-<li>إضافة خيار لإخفاء ايقونة قطع الإنترنت عن الواتساب (إعدادات بلس-شاشة المحادثات-خيار رقم 3.4.9)</li>
-<li>اصلاح عدم ظهور ايقونة معلومات الرسالة في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الرد في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الارفاق في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح واجهة المستخدم القديمة(الخيار 3.4.1)</li>
-<li>اصلاح انهيار التطبيق في بعض الاجهزة</li>
-<li>اصلاحات اخرى</li>
+<p>V8.30</p>
 
 <p>Update V8.30</p>
 
-<li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-<li>Added Option to Hide DND Mode Icon (mod 3.4.9)</li>
-<li>Fixed message details icon not showing on Chat ActionBar</li>
-<li>Fixed reply icon not showing on Chat ActionBar</li>
-<li>Fixed attachment icon not showing on Chat ActionBar</li>
-<li>Fixed Old UI ( option 3.4.1)</li>
-<li>Fixed app doesnt start on some devices</li>
-<li>Other fixes</li>
+<li>Update 2.19.291</li>
+<li>[Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
+<li>[Added] Disable clicking on "WhatsApp"</li>
+<li>Hide Muted Status update</li>
+<li>[Added] Hide Viewed Status update</li>
+<li>[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users</li>
+<li>[Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
+<li>[Fixed] The Crash on Kitkat users</li>
 
 ","url":"https://www.nairomix.com/"
 }
