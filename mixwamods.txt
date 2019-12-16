@@ -1,4 +1,4 @@
-{"version_code":453019,"content":"
+{"version_code":452812,"content":"
 <p>V8.30</p>
 
 <p>Update V8.30</p>
@@ -12,5 +12,5 @@
 <li>[Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
 <li>[Fixed] The Crash on Kitkat users</li>
 
-","url":"https://www.nairomix.com/"
+","url":"https://www.nairomix.com/2019/12/Official-WaMix8-30.html"
 }
