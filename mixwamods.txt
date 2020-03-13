@@ -1,16 +1,1 @@
-{"version_code":452812,"content":"
-<p>MIXWhatsApp V8.30</p>
-
-<p>Update V8.30</p>
-
-<li>Update 2.19.291</li>
-<li>Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
-<li>Added] Disable clicking on "WhatsApp"</li>
-<li>Hide Muted Status update</li>
-<li>Added] Hide Viewed Status update</li>
-<li>Added] Hide Recent Status update[Fixed] The Crash on Kitkat users</li>
-<li>Added] Instagram-like Store you can enable it from Home Screen >> Header</li>
-<li>Fixed] The Crash on Kitkat users</li>
-
-","url":"https://www.nairomix.com/2019/12/Official-WaMix8-30.html"
-}
+{'ver1':'8', 'ver2':'25', 'ver3':'\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'https://www.nairomix.com/?m=1'}
